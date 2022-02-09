@@ -17,7 +17,7 @@ import monprojet.entity.Country;
 @RequestMapping(path = "/cities") // This means URL's start with /cities (after Application path)
 @Slf4j
 public class CityController {
-// On affichera par défaut la page 'cities.mustache'
+
 	private static final String DEFAULT_VIEW = "cities";
     //private static final String CREATE_VIEW="cities";
 	/**
