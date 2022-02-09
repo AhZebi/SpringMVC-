@@ -10,7 +10,7 @@ import monprojet.entity.City;
 import monprojet.entity.Country;
 
 // This will be AUTO IMPLEMENTED by Spring 
-//
+//author Léo
 
 public interface CountryRepository extends JpaRepository<Country, Integer> {
 
